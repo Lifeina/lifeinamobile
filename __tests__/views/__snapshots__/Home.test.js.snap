@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Home view correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    appearance="default"
+    level="1"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FFFFFF",
+        },
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgb(54, 188, 238)",
+          "flex": 1,
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../src/assets/logo-lifeina.png",
+        }
+      }
+      style={
+        Object {
+          "height": 108,
+          "marginBottom": 30,
+          "width": 102,
+        }
+      }
+    />
+    <View
+      appearance="default"
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#EDF1F7",
+            "height": 1,
+          },
+          undefined,
+        ]
+      }
+    />
+    <Text
+      appearance="default"
+      category="h3"
+      style={
+        Array [
+          Object {
+            "color": "#222B45",
+            "fontFamily": "System",
+            "fontSize": 30,
+            "fontWeight": "800",
+          },
+          Object {
+            "color": "white",
+            "marginBottom": 30,
+          },
+        ]
+      }
+    >
+      Welcome to Lifeina
+    </Text>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "white",
+          "borderColor": "white",
+          "borderRadius": 4,
+          "borderWidth": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginVertical": 16,
+          "minHeight": 40,
+          "minWidth": 40,
+          "opacity": 1,
+          "paddingHorizontal": 10,
+          "paddingVertical": 12,
+        }
+      }
+    >
+      <Text
+        appearance="default"
+        category="p1"
+        style={
+          Array [
+            Object {
+              "color": "#222B45",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "fontWeight": "400",
+            },
+            Object {
+              "color": "#FFFFFF",
+              "fontFamily": "System",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "marginHorizontal": 10,
+            },
+          ]
+        }
+      >
+        <Text
+          appearance="default"
+          category="p1"
+          style={
+            Array [
+              Object {
+                "color": "#222B45",
+                "fontFamily": "System",
+                "fontSize": 15,
+                "fontWeight": "400",
+              },
+              undefined,
+            ]
+          }
+          styles={
+            Object {
+              "textAlign": "center",
+            }
+          }
+        >
+          <Text
+            appearance="default"
+            category="p1"
+            style={
+              Array [
+                Object {
+                  "color": "#222B45",
+                  "fontFamily": "System",
+                  "fontSize": 15,
+                  "fontWeight": "400",
+                },
+                undefined,
+              ]
+            }
+          >
+            FIND MY LIFEINABOX
+          </Text>
+        </Text>
+      </Text>
+    </View>
+  </View>
+</View>
+`;

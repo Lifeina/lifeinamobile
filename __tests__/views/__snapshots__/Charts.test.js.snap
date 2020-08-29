@@ -1,0 +1,1640 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Charts view correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    appearance="default"
+    level="1"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FFFFFF",
+        },
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgb(54, 188, 238)",
+          "flex": 1,
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+          "margin": "auto",
+        }
+      }
+    >
+      <View
+        className="VictoryContainer"
+        onMoveShouldSetResponder={[Function]}
+        onMoveShouldSetResponderCapture={[Function]}
+        onResponderEnd={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderReject={[Function]}
+        onResponderRelease={[Function]}
+        onResponderStart={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        pointerEvents="box-none"
+        style={
+          Object {
+            "position": "relative",
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          bbHeight={350}
+          bbWidth={750}
+          focusable={false}
+          height={350}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchPinch={[Function]}
+          onTouchStart={[Function]}
+          role="img"
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "height": "100%",
+                "width": "100%",
+              },
+              Object {
+                "flex": 0,
+                "height": 350,
+                "width": 750,
+              },
+            ]
+          }
+          vbHeight={350}
+          vbWidth={750}
+          width={750}
+        >
+          <RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={0}
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                    "strokeLinecap",
+                    "strokeLinejoin",
+                  ]
+                }
+                stroke={4294967295}
+                strokeLinecap={1}
+                strokeLinejoin={1}
+                strokeWidth={2}
+                vectorEffect={1}
+                x1={70}
+                x2={680}
+                y1={280}
+                y2={280}
+              />
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={129.31392426999395}
+                  x2={129.31392426999395}
+                  y1={280}
+                  y2={70}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={129.31392426999395}
+                  x2={129.31392426999395}
+                  y1={280}
+                  y2={285}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      11.115,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-0-tickLabels-0"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      129.31392426999395,
+                    ]
+                  }
+                  y={
+                    Array [
+                      293,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="-140"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "middle",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        129.31392426999395,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={207.98336365999484}
+                  x2={207.98336365999484}
+                  y1={280}
+                  y2={70}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={207.98336365999484}
+                  x2={207.98336365999484}
+                  y1={280}
+                  y2={285}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      11.115,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-0-tickLabels-1"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      207.98336365999484,
+                    ]
+                  }
+                  y={
+                    Array [
+                      293,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="-120"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "middle",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        207.98336365999484,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={286.65280304999567}
+                  x2={286.65280304999567}
+                  y1={280}
+                  y2={70}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={286.65280304999567}
+                  x2={286.65280304999567}
+                  y1={280}
+                  y2={285}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      11.115,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-0-tickLabels-2"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      286.65280304999567,
+                    ]
+                  }
+                  y={
+                    Array [
+                      293,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="-100"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "middle",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        286.65280304999567,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={365.32224243999656}
+                  x2={365.32224243999656}
+                  y1={280}
+                  y2={70}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={365.32224243999656}
+                  x2={365.32224243999656}
+                  y1={280}
+                  y2={285}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      11.115,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-0-tickLabels-3"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      365.32224243999656,
+                    ]
+                  }
+                  y={
+                    Array [
+                      293,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="-80"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "middle",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        365.32224243999656,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={443.99168182999745}
+                  x2={443.99168182999745}
+                  y1={280}
+                  y2={70}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={443.99168182999745}
+                  x2={443.99168182999745}
+                  y1={280}
+                  y2={285}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      11.115,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-0-tickLabels-4"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      443.99168182999745,
+                    ]
+                  }
+                  y={
+                    Array [
+                      293,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="-60"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "middle",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        443.99168182999745,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={522.6611212199983}
+                  x2={522.6611212199983}
+                  y1={280}
+                  y2={70}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={522.6611212199983}
+                  x2={522.6611212199983}
+                  y1={280}
+                  y2={285}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      11.115,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-0-tickLabels-5"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      522.6611212199983,
+                    ]
+                  }
+                  y={
+                    Array [
+                      293,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="-40"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "middle",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        522.6611212199983,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={601.3305606099991}
+                  x2={601.3305606099991}
+                  y1={280}
+                  y2={70}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={601.3305606099991}
+                  x2={601.3305606099991}
+                  y1={280}
+                  y2={285}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      11.115,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-0-tickLabels-6"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      601.3305606099991,
+                    ]
+                  }
+                  y={
+                    Array [
+                      293,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="-20"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "middle",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        601.3305606099991,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGLine
+                fill={0}
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                    "strokeLinecap",
+                    "strokeLinejoin",
+                  ]
+                }
+                stroke={4294967295}
+                strokeLinecap={1}
+                strokeLinejoin={1}
+                strokeWidth={2}
+                vectorEffect={1}
+                x1={680}
+                x2={680}
+                y1={70}
+                y2={280}
+              />
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={70}
+                  y1={241.81818181818178}
+                  y2={241.81818181818178}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={685}
+                  y1={241.81818181818178}
+                  y2={241.81818181818178}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      4.615,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-1-tickLabels-0"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      693,
+                    ]
+                  }
+                  y={
+                    Array [
+                      241.81818181818178,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="20"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "start",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        693,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={70}
+                  y1={203.63636363636365}
+                  y2={203.63636363636365}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={685}
+                  y1={203.63636363636365}
+                  y2={203.63636363636365}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      4.615,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-1-tickLabels-1"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      693,
+                    ]
+                  }
+                  y={
+                    Array [
+                      203.63636363636365,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="40"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "start",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        693,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={70}
+                  y1={165.45454545454547}
+                  y2={165.45454545454547}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={685}
+                  y1={165.45454545454547}
+                  y2={165.45454545454547}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      4.615,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-1-tickLabels-2"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      693,
+                    ]
+                  }
+                  y={
+                    Array [
+                      165.45454545454547,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="60"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "start",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        693,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={70}
+                  y1={127.27272727272728}
+                  y2={127.27272727272728}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={685}
+                  y1={127.27272727272728}
+                  y2={127.27272727272728}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      4.615,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-1-tickLabels-3"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      693,
+                    ]
+                  }
+                  y={
+                    Array [
+                      127.27272727272728,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="80"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "start",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        693,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+              <RNSVGGroup>
+                <RNSVGLine
+                  fill={null}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeDasharray",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4293718001}
+                  strokeDasharray={
+                    Array [
+                      "10",
+                      "10",
+                    ]
+                  }
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={70}
+                  y1={89.0909090909091}
+                  y2={89.0909090909091}
+                />
+                <RNSVGLine
+                  fill={0}
+                  propList={
+                    Array [
+                      "fill",
+                      "stroke",
+                      "strokeWidth",
+                      "strokeLinecap",
+                      "strokeLinejoin",
+                    ]
+                  }
+                  stroke={4287669422}
+                  strokeLinecap={1}
+                  strokeLinejoin={1}
+                  strokeWidth={1}
+                  vectorEffect={1}
+                  x1={680}
+                  x2={685}
+                  y1={89.0909090909091}
+                  y2={89.0909090909091}
+                />
+                <RNSVGText
+                  content={null}
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={
+                    Array [
+                      4.615,
+                    ]
+                  }
+                  font={Object {}}
+                  name="chart-axis-1-tickLabels-4"
+                  rotate={Array []}
+                  x={
+                    Array [
+                      693,
+                    ]
+                  }
+                  y={
+                    Array [
+                      89.0909090909091,
+                    ]
+                  }
+                >
+                  <RNSVGTSpan
+                    content="100"
+                    dx={
+                      Array [
+                        0,
+                      ]
+                    }
+                    dy={Array []}
+                    fill={4294967295}
+                    font={
+                      Object {
+                        "fontFamily": "System",
+                        "fontSize": 13,
+                        "letterSpacing": "normal",
+                        "textAnchor": "start",
+                      }
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                      ]
+                    }
+                    rotate={Array []}
+                    x={
+                      Array [
+                        693,
+                      ]
+                    }
+                    y={Array []}
+                  />
+                </RNSVGText>
+              </RNSVGGroup>
+            </RNSVGGroup>
+            <RNSVGGroup>
+              <RNSVGRect
+                fill={null}
+                height={62.847500000000004}
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={4278190080}
+                vectorEffect={1}
+                width={120.66828143021915}
+                x={155}
+                y={0}
+              />
+              <RNSVGPath
+                d="M 168, 47.150000000000006
+      m -5.2, 0
+      a 5.2, 5.2 0 1,0 10.4,0
+      a 5.2, 5.2 0 1,0 -10.4,0"
+                fill={4294967295}
+                propList={
+                  Array [
+                    "fill",
+                  ]
+                }
+              />
+              <RNSVGText
+                content={null}
+                dx={
+                  Array [
+                    0,
+                  ]
+                }
+                dy={
+                  Array [
+                    17.1,
+                  ]
+                }
+                font={Object {}}
+                name="chart-legend-2-title-all"
+                rotate={Array []}
+                x={
+                  Array [
+                    215.33414071510958,
+                  ]
+                }
+                y={
+                  Array [
+                    5,
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Battery"
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={Array []}
+                  fill={4282735204}
+                  font={
+                    Object {
+                      "fontFamily": "System",
+                      "fontSize": 20,
+                      "letterSpacing": "normal",
+                      "textAnchor": "middle",
+                    }
+                  }
+                  propList={
+                    Array [
+                      "fill",
+                    ]
+                  }
+                  rotate={Array []}
+                  x={
+                    Array [
+                      215.33414071510958,
+                    ]
+                  }
+                  y={Array []}
+                />
+              </RNSVGText>
+              <RNSVGText
+                content={null}
+                dx={
+                  Array [
+                    0,
+                  ]
+                }
+                dy={
+                  Array [
+                    4.615,
+                  ]
+                }
+                font={Object {}}
+                name="chart-legend-2-labels-0"
+                rotate={Array []}
+                x={
+                  Array [
+                    183.6,
+                  ]
+                }
+                y={
+                  Array [
+                    47.150000000000006,
+                  ]
+                }
+              >
+                <RNSVGTSpan
+                  content="Charge 100%"
+                  dx={
+                    Array [
+                      0,
+                    ]
+                  }
+                  dy={Array []}
+                  fill={4282735204}
+                  font={
+                    Object {
+                      "fontFamily": "System",
+                      "fontSize": 13,
+                      "letterSpacing": "normal",
+                      "textAnchor": "start",
+                    }
+                  }
+                  propList={
+                    Array [
+                      "fill",
+                    ]
+                  }
+                  rotate={Array []}
+                  x={
+                    Array [
+                      183.6,
+                    ]
+                  }
+                  y={Array []}
+                />
+              </RNSVGText>
+            </RNSVGGroup>
+            <RNSVGGroup
+              clipPath="victory-clip-2"
+            >
+              <RNSVGGroup>
+                <RNSVGDefs>
+                  <RNSVGClipPath
+                    name="victory-clip-2"
+                  >
+                    <RNSVGRect
+                      height={210}
+                      vectorEffect={1}
+                      width={0}
+                      x={70}
+                      y={70}
+                    />
+                  </RNSVGClipPath>
+                </RNSVGDefs>
+              </RNSVGGroup>
+              <RNSVGPath
+                d="M89.97920457499355,278.0909090909091L148.98128411749417,260.9090909090909L207.98336365999484,241.81818181818178L266.98544320249545,222.72727272727275L325.9875227449961,203.63636363636365L384.9896022874967,184.54545454545453L443.99168182999745,165.45454545454547L502.993761372498,146.36363636363637L561.9958409149987,127.27272727272728L620.9979204574994,108.18181818181816L680,89.0909090909091"
+                fill={0}
+                opacity={1}
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                    "strokeWidth",
+                  ]
+                }
+                stroke={4294967295}
+                strokeWidth={2}
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <View
+          pointerEvents="box-none"
+          style={
+            Object {
+              "left": 0,
+              "position": "absolute",
+              "top": 0,
+              "zIndex": 99,
+            }
+          }
+        >
+          <RNSVGSvgView
+            align="xMidYMid"
+            bbHeight={350}
+            bbWidth={750}
+            focusable={false}
+            height={350}
+            meetOrSlice={0}
+            minX={0}
+            minY={0}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                  "borderWidth": 0,
+                },
+                Object {
+                  "height": "100%",
+                  "overflow": "visible",
+                  "width": "100%",
+                },
+                Object {
+                  "flex": 0,
+                  "height": 350,
+                  "width": 750,
+                },
+              ]
+            }
+            vbHeight={350}
+            vbWidth={750}
+            width={750}
+          >
+            <RNSVGGroup />
+          </RNSVGSvgView>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
